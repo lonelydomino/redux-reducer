@@ -31,7 +31,7 @@ code in `src/reducers/manageFriends.js` and `src/reducers/managePresents.js`.
    would look something like this:
 
     ```js
-    action = {
+    action = {`
       type: "INCREASE"
     }
     ```
